@@ -44,4 +44,3 @@ The goals are:
   - Choose 4 cities, should be close together to get the direction map.
   - Create a marker layer map for the four cities.
   - Screenshot of the route it was saved as WeatherPy_travel_map_markers.png.
-  - 
